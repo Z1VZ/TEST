@@ -4,7 +4,7 @@
 
 int main(){
 	printf("hello");
-	printf("Newhello");
+	printf("Newhello1");
 	int choice1;
 	int* ptr1 = (int*) malloc(sizeof(int));
 	int* ptr2  = (int*) malloc(sizeof(int));
