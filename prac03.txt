@@ -1,0 +1,10 @@
+1. There is an errro rin each of hte following. what is it?
+
+	a. There is no point in setting a value to null its null by default.
+	b. A pointer variable is created but line 2 isnt referring to the pointer variable declared in line 1
+	c. A pointer should store the memory address of a string not hte value itself.
+	d. a new char variable is made, a double pointer with the data type of char being made, then the double pointer is assigned the memory address of the char variable which is incorrect as the double pointer stores the memory address of the memory addresse
+	e.the void pointer isnt being typed casted properly
+
+2. Values of variables after the following code:
+	a.
